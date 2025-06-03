@@ -1,2 +1,3 @@
 /venv/
 gpu_test.py
+*.csv
