@@ -2,3 +2,4 @@
 gpu_test.py
 *.csv
 /.idea
+*.xml
