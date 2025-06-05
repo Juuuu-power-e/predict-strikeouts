@@ -3,3 +3,5 @@ gpu_test.py
 *.csv
 /.idea
 *.xml
+plots.zip
+/logs
